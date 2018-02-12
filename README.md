@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.sebaj.eu/">
-    <img src="http://www.sebaj.eu/logo_new.svg" alt="" width=72 height=72>
+    <img src="http://www.sebaj.eu/logo_new.svg" alt="" width=200 height=150>
   </a>
 
   <h3 align="center">Sebaj</h3>
